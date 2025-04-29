@@ -43,6 +43,13 @@ const API_KEYS_CONFIG: ApiKeyConfig[] = [
     storageKey: "XAI_API_KEY",
     label: "XAI API Key",
     placeholder: "xai-..."
+  },
+  {
+    name: "Google",
+    key: "google",
+    storageKey: "GOOGLE_GENERATIVE_AI_API_KEY",
+    label: "Google AI API Key",
+    placeholder: "AIza..."
   }
 ];
 
